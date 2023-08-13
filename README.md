@@ -1,3 +1,5 @@
+##### 화면을 실행했는데 에러로 react-virtualized가 생기면 npm install react-virtualized설치하고 실행하면 화면이 잘 작동함
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
